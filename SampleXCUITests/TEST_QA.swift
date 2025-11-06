@@ -20,6 +20,6 @@ class Test_QA: XCTestCase
         sleep(2)
         
         app.terminate()
-        sleep(2)
+        
     }
 }
