@@ -21,5 +21,7 @@ class Test_QA: XCTestCase
         
         app.terminate()
         sleep(2)
+        
+        print("Hello world")
     }
 }
